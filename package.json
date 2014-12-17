@@ -1,0 +1,23 @@
+{
+  "name": "angular-utf8-base64",
+  "version": "0.0.1",
+  "author": {
+      "name": "Ivan Hayes",
+      "url": "http://www.ivanhayes.com"
+  },
+  "description": "Base64 encoding/decoding with UTF8 support for AngularJS Apps, and including CommonJS module support.",
+  "main": "angular-utf8-base64.js",
+  "keywords": [
+    "Base64",
+    "angular",
+    "javascript",
+    "library",
+    "encoding",
+    "ajax"
+  ],
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/munkychop/angular-utf8-base64"
+  }
+}
