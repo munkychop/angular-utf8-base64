@@ -1,6 +1,6 @@
 {
   "name": "angular-utf8-base64",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
       "name": "Ivan Hayes",
       "url": "http://www.ivanhayes.com"
@@ -18,6 +18,6 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/munkychop/angular-utf8-base64"
+    "url": "git://github.com/munkychop/angular-utf8-base64"
   }
 }
