@@ -4,8 +4,7 @@ function Base64 () {
     angular.module('utf8-base64',[]).constant('base64', (function() {
 
         /*
-         * Encapsulation of Andrey Bezyazychniy's encapsulation of Vassilis Petroulias's base64.js library.
-         * As well as Andrey Bezyazychniy's AngularJS wrapper, an additional CommonJS wrapper has been added.
+         * Encapsulation of Vassilis Petroulias's base64.js library for AngularJS
          * Original notice included below
          */
 
